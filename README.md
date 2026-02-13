@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Covid-19 India Portal
 
 Given two files `app.js` and a database file `covid19IndiaPortal.db` consisting of three tables `state`, `district` and `user`.
@@ -295,3 +296,6 @@ Use `npm install` to install the packages.
 **Export the express instance using the default export syntax.**
 
 **Use Common JS module syntax.**
+=======
+# covid19IndiaPortal
+>>>>>>> da3536ce869020a21f6c000da103d0e2a07a8bc0
